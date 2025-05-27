@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿# 📊 Sales Performance Dashboard (Power BI)
 
 An executive-style interactive dashboard built with Power BI to analyze e-commerce sales performance across multiple product categories and regions. This project focuses on delivering actionable insights using clean layout, KPI visuals, DAX calculations, and intuitive slicers.
@@ -45,3 +46,7 @@ An executive-style interactive dashboard built with Power BI to analyze e-commer
 **Husam Qarawi**  
 🔗 [LinkedIn](https://linkedin.com/in/Husamqarawi)  
 📧 husamtq@gmail.com
+=======
+# sales-performance-dashboard-pbi
+Interactive Power BI dashboard for analyzing sales performance across products, regions, and time. Includes KPIs, DAX measures, filters, and visual storytelling.
+>>>>>>> 3b2900afcc6d96f175caba9d4bad577ccbd47437
